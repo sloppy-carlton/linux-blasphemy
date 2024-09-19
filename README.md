@@ -11,12 +11,12 @@ The other is that your day has come!
 I have spent time scouring the Internet for the themes, fonts, and other resources to use to replicate that Windows 95 aesthetic in Xfce, and I believe that I have succeeded. My instructions will mainly focus on Arch (btw) Linux, since that's the distro that I use, and that's the one I got this working on. I will be providing links to where I sourced my themes and fonts, so you should be able to find instructions there if mine are not relevant to your distro.
 
 Prerequisites:
--Xfce
-*Git
-+LightDM
--Webkit or Webkit2 greeter for LightDM
-*Plymouth
-+Paru or Yay (Arch (btw))
+- Xfce
+* Git
++ LightDM
+- Webkit or Webkit2 greeter for LightDM
+* Plymouth
++ Paru or Yay (Arch (btw))
 
 Are you sitting comfortably? Good. Let's begin.
 
