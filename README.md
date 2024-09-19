@@ -4,7 +4,7 @@
 
 If you've ever thought to yourself, "Hey, what Linux needs is more Windows," I've got two things to say to you. The first is this:
 
-![Image of a blushing Ultramarine Terminator Captain saying, "But Senpai... That's heresy!"](/assets/ultramarines-terminator-captain-v0-xxjdnj11avoc1.jpg)
+![Image of a blushing Ultramarine Terminator Captain saying, "But Senpai... That's heresy!"](/assets/ultramarines-terminator-captain-v0-xxjdnj11avoc1.png)
 
 The other is that your day has come!
 
