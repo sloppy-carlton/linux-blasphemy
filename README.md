@@ -32,7 +32,7 @@ paru -S chicago95-theme ttf-ms-fonts
 ```
 you can also use the `chicago95-theme-git` package in the AUR.
 
-You're still missing two fonts, <sup>link</sup>MS Sans Serif<sup>/link</sup> and <sup>link</sup>VGA 437<sup>/link</sup>. As luck would have it, I found those with the assistance of some helpful people on the r/linuxsucks subreddit. I've included them in this repo.
+You're still missing two fonts, [MS Sans Serif](https://github.com/tangrams/tangram-play/tree/master/public/data/fonts/ms-sans-serif) and [VGA 437](https://cp437.github.io/). As luck would have it, I found those with the assistance of some helpful people on the r/linuxsucks subreddit. I've included them in this repo.
 
 Download both of them, then do this:
 ```
